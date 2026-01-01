@@ -49,7 +49,7 @@ A beginner-friendly **Python GUI application** built using **Tkinter** to calcul
 ## 📌 Sample Output
 
 ```
-Student Name: Yu
+Student Name: Yuvika
 maths → Credits: 4, Grade: A
 physics → Credits: 3, Grade: B
 GPA: 8.57
