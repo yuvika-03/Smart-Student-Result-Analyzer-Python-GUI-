@@ -2,7 +2,6 @@
 
 A beginner-friendly **Python GUI application** built using **Tkinter** to calculate student GPA, determine PASS/FAIL status, and manage **multiple students**. 
 
----
 
 ## Features
 
@@ -14,7 +13,6 @@ A beginner-friendly **Python GUI application** built using **Tkinter** to calcul
 *  Clean **GUI (Tkinter)**
 *  Input validation for credits and grades
 
----
 
 ##  Grading System
 
@@ -28,7 +26,6 @@ A beginner-friendly **Python GUI application** built using **Tkinter** to calcul
 | E     | 5      |
 | F     | 0      |
 
----
 
 ##  Application Flow
 
@@ -39,7 +36,6 @@ A beginner-friendly **Python GUI application** built using **Tkinter** to calcul
 5. Click **Save Student**
 6. Use **View All Students** to see saved records
 
----
 
 ##  Core Python concepts
 
@@ -49,22 +45,6 @@ A beginner-friendly **Python GUI application** built using **Tkinter** to calcul
 * Input validation
 * Event-driven programming
 
----
-
-## ▶️ How to Run
-
-1. Make sure Python is installed:
-
-   ```bash
-   python --version
-   ```
-2. Run the program:
-
-   ```bash
-   python main.py
-   ```
-
----
 
 ## 📌 Sample Output
 
@@ -75,5 +55,3 @@ physics → Credits: 3, Grade: B
 GPA: 8.57
 Result: PASS
 ```
-
----
