@@ -5,8 +5,8 @@ A beginner-friendly **Python GUI application** built using **Tkinter** to calcul
 
 ## Demo
 
-![GUI Output1](Output1.png)
-![GUI Output2](Output2.png)
+![Main Screen](images/output1.png)
+![Result Screen](images/output2.png)
 
 
 ## Features
